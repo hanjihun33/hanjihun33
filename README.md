@@ -1,4 +1,55 @@
-## Hi there 👋
+<div align="center">
+    <h1><img src="https://em-content.zobj.net/source/microsoft-teams/337/teacup-without-handle_1f375.png" width="30"/> Introduce</h1>
+</div>
+<hr>
+
+<div align="center">
+    알맞은 기술과 구조로 소프트웨어를 설계하고
+    <br>
+    이를 통해 코드를 다듬어 좋은 산출물을 만드는 개발자를 목표로 하고 있습니다.
+</div>
+
+---
+
+<div align="center">
+    <h1><img src="https://em-content.zobj.net/source/microsoft-teams/337/hammer-and-wrench_2692-fe0f.png" width="30"/> Tech Stacks</h1>
+</div>
+<hr>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+    <br><br>
+    
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swiftui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CoreData-007AFF?style=flat-square&logo=apple&logoColor=white"/>
+    <br><br>
+
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+</div>
+
+---
+
+<div align="center">
+    <h1><img src="https://em-content.zobj.net/source/microsoft-teams/337/man-mechanic_1f468-200d-1f527.png" width="30"/> About Me</h1>
+</div>
+<hr>
+
+<div align="center">
+    <a href="[본인 LinkedIn URL]" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:[본인 Gmail 주소]">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+    <br>
+    <img src="https://hits.seeyounextone.com/views/badge/latest/pad-color/007AFF/count/true"/>
+
+    </div>
 
 <!--
 **hanjihun33/hanjihun33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
